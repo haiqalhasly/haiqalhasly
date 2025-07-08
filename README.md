@@ -1,5 +1,5 @@
 - 👋 Hi, I’m haiqal
-- 👀 I’m interested in mobile development, cloud development, AI development
+- 👀 I’m interested in backend, computer vision and AI development
 - 🌱 I’m currently learning computer science at Universiti Teknologi Petronas
 - 📫 You can reach me on instagram @_qaman_
 - ⚡ Fun fact: I do not know what i am doing right now
