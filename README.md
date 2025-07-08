@@ -8,3 +8,6 @@ haiqalhasly/haiqalhasly is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hi%20I'm%20Haiqal&fontSize=90)
+<div align="center">
+  <img src="https://github.com/haiqalhasly/haiqalhasly/blob/main/miles-morales-gif-7.gif" alt="Miles Morales GIF" />
+</div>
